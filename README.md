@@ -11,6 +11,7 @@ João Víctor Seixas – RM553888
 
 Lucca Enrico – RM553678 
 
+## Descrição
 
 Este projeto implementa um sistema de gerenciamento de usuários (CRUD - Create, Read, Update, Delete) integrado com **Reconhecimento Facial** em tempo real, utilizando as bibliotecas `dlib` e `OpenCV`. A interface gráfica (GUI) é construída com `tkinter`.
 
